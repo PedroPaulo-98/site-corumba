@@ -27,7 +27,7 @@
         </section>
 
         <!-- PT-BR: Boletins -->
-        <section id="bulletim" class="container" data-aos="fade-up">
+        <section id="companies" class="container" data-aos="fade-up">
             <div class="row">
                 <div class="section-title col-12">
                     <div class="row">
@@ -169,7 +169,7 @@
         </section>
         
         <!-- PT-BR: Missões -->
-        <section id="mission" class="container mission p-3" data-aos="fade-up">
+        <section id="service" class="container mission p-3" data-aos="fade-up">
             <div class="row mt-5">
                 <div class="section-title col-12">
                     <div class="row">
@@ -254,7 +254,7 @@
             </div>
         </section>
 
-        <section id="ministry" class="container team p-3" data-aos="fade-up" data-aos-delay="200">
+        <section id="time" class="container team p-3" data-aos="fade-up" data-aos-delay="200">
             <div class="row">
                 <div class="section-title col-12">
                     <div class="row">

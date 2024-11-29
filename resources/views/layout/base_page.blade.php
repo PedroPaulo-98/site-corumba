@@ -36,9 +36,9 @@
                     <ul>
                         <li class="{{ $route == 'home' ? 'active' : '' }}"><a href="{{ $route == 'home' ? '#home-top' : route('page.home') }}">Home</a></li>
                         <li class="{{ $route == 'about' ? 'active' : '' }}"><a href="{{ route('page.about') }}">Sobre</a></li>
-                        <li class="{{ $route == 'bulletim' ? 'active' : '' }}"><a href="{{ $route == 'home' ? '#bulletim' : route('page.bulletim') }}">Empresas</a></li>
-                        <li class="{{ $route == 'mission' ? 'active' : '' }}"><a href="{{ $route == 'home' ? '#mission' : route('page.mission') }}">Serviços</a></li>
-                        <li class="{{ $route == 'ministry' ? 'active' : '' }}"><a href="{{ $route == 'home' ? '#ministry' : route('page.ministry') }}">Time</a></li>
+                        <li class="{{ $route == 'companies' ? 'active' : '' }}"><a href="{{ $route == 'home' ? '#companies' : route('page.companies') }}">Empresas</a></li>
+                        <li class="{{ $route == 'service' ? 'active' : '' }}"><a href="{{ $route == 'home' ? '#service' : route('page.service') }}">Serviços</a></li>
+                        <li class="{{ $route == 'time' ? 'active' : '' }}"><a href="{{ $route == 'home' ? '#time' : route('page.time') }}">Time</a></li>
                         <li class="{{ $route == 'contact' ? 'active' : '' }}"><a href="{{ $route == 'home' ? '#contact' : route('page.contact') }}">Contato</a></li>
                     </ul>
                 </nav>
